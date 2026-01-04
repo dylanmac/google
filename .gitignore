@@ -1,0 +1,2 @@
+# Comments start with #
+/node_modules/     # ignore at repo root only
