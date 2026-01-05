@@ -1,0 +1,5 @@
+# Comments start with #
+node_modules/     # ignore at repo root only
+.vscode/          # ignore at repo root only
+.DS_Store        # macOS file system metadata
+.env             # environment variables file
